@@ -1,2 +1,2 @@
-# btech-projects
-Basic programs and assignments for B.Tech.
+searching 
+Basic programs and assignments for searching  algorithm 
